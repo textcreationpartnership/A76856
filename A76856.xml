@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody and cruel plot, intended by the popish army, and their adherents, against the Kings Majesty and all the Protestants of the Kingdome, to the murther and ruine of the English Protestants: discovered by a petition intercepted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76856</idno>
+            <idno type="STC">Wing B3226</idno>
+            <idno type="STC">Thomason E91_29</idno>
+            <idno type="STC">ESTC R21108</idno>
+            <idno type="EEBO-CITATION">99869817</idno>
+            <idno type="PROQUEST">99869817</idno>
+            <idno type="VID">155747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155747)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody and cruel plot, intended by the popish army, and their adherents, against the Kings Majesty and all the Protestants of the Kingdome, to the murther and ruine of the English Protestants: discovered by a petition intercepted.</title>
+                  <author>B. J. V. D.</author>
+                  <author>G. L.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: B.J.V.D. G.L.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "March. 4".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155747:1" rendition="simple:additions"/>
+            <p>A BLOODY AND CR<g ref="char:V">Ʋ</g>EL PLOT, Intended by the Popiſh ARMY, AND Their Adherents, againſt the Kings Majeſty and all the Proteſtan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the KINGDOME,</p>
+            <p>To the murther and ruine of the Engliſh Proteſtants: diſcovered by a Petition intercepted.</p>
+            <p>LONDON, Printed for <hi>H. R.</hi> MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155747:2"/>
+            <pb facs="tcp:155747:2"/>
+            <head>The Romiſh Remonſtrance, ſetting forth to his Holineſſe of Rome the procee<g ref="char:EOLhyphen"/>dings of that faction in this Kingdome, and their adherents againſt the Proteſtant party, preſented in the year of diviſion, 1642.</head>
+            <opener>May it pleaſe your Holineſſe,</opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our faithfull ſervants and ſubjects in theſe parts of Europe, within the Dominion of England, as in duty we are bound, and in obedience to your Holineſſe ſacred command, have preſumed to preſent you this Remonſtrance of our proceedings for the defence of our Religion, Lawes and Liberties, and ancient Supremacy of the Church and See of Rome, of which we have the honour to be members, children and ſervants, againſt the hereticall and adverſe party denomi<g ref="char:EOLhyphen"/>nated Proteſtants and their complices, who now ſtrive to aboliſh and root out our Religion, and us out of theſe your Holineſſes ſpirituall Dominions conſiſting of theſe parti<g ref="char:EOLhyphen"/>culars, imploring from your wiſdome, and thrice reverend Senate by your authority there aſſembled, further aid and aſſiſtance both by your holy Councells, and otherwiſe to
+<pb facs="tcp:155747:3"/> continue this holy warre by us begun, and to withſtand our potent adverſaries.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>After your ſervants with the aſſiſtance of our holy tea<g ref="char:EOLhyphen"/>chers, and ſpirituall Fathers, Prieſts, Capouchins, Jeſuits and Friars, we had endeavoured by underminings and ſe<g ref="char:EOLhyphen"/>cret plots to ſubvert and diſolve the Parliament here now againſt us unfortunately aſſembled, eſpecially ſome par<g ref="char:EOLhyphen"/>ticular Members of each Houſe, which we conceived ſwayed the reſt, which might otherwiſe have beene more flexible and yeelding to our deſires and purpoſes, but could no waies prevaile in the ſame, although much en<g ref="char:EOLhyphen"/>couraged with the juſtneſſe of our cauſe, and your graces plenary and indulgent pardons iſſued and granted us, wee thought by force of armes to ſuppreſſe our adverſaries, and to that purpoſe we endeavoured</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>To draw to our party the learned Prelates, and Clergie of that Kingdome, who eaſily inclined to our deſires, and favoured our cauſe, and as a good ſtep to our purpoſe pro<g ref="char:EOLhyphen"/>cured even twelve of them together to proteſt againſt their King and his proceedings by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, but it had beene better otherwiſe, for by experience we finde their counſells, as Members of that Houſe might have done us more good then ſo haſty and publicke Pro<g ref="char:EOLhyphen"/>teſtation; for by that meanes they were accuſed of high treaſon by the Commons, and expulſed the Peers Houſe, and cooped up together in the Tower, by which meanes our expectation of their aſſiſtance became fruitleſſe, and we driven to agitate on other deſignes more ſafe for us as we conceived to proceed in, which was</p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:155747:3"/>
+               <head>III.</head>
+               <p>To ſtir up and raiſe diviſion amongſt the Proteſtants themſelves, ſome in defence of the Eccleiaſticall Ju<g ref="char:EOLhyphen"/>riſdiction of Biſhops, and ſome againſt the ſame, both ſides having favourites both in the Lords Houſe and Com<g ref="char:EOLhyphen"/>mons, but this little availed, for both Houſes agreed in uniformity againſt them, and their juriſdiction: yet wee procured their deliverance upon baile, and now they are much aſſiſtant to our deſignes, and have freely contribu<g ref="char:EOLhyphen"/>ted their counſells and eſtates to the maintenance of our cauſe, under pretence of defending the Prerogative of their King, which being accompliſhed, we procured by lucky agents his Majeſty to</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Take diſtaſte and diſpleaſure at the tumultuous aſſem<g ref="char:EOLhyphen"/>blies of the Citizens of London, who aimed by force to ſuppreſſe the Biſhops and Popiſh Lords of the Houſe of Peers, and to abſent himſelfe from his Parliament, under pretence of more ſafety and ſecurity of his Majeſties Per<g ref="char:EOLhyphen"/>ſon and Off-ſpring; after his Majeſties departure we wrought ſo farre with his Majeſties Councell as to per<g ref="char:EOLhyphen"/>ſwade his Majeſtie to take, to</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>His Perſon a guard, by that pretence endeavouring to raiſe armes againſt the Parliament, which by both Houſes was declared to be illegall, and againſt the Lawes of the Kingdome: in further purſuit of this great deſigne wee have in hand, we procured divers Members of Parlia<g ref="char:EOLhyphen"/>ment</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>To be accuſed and proclaimed Traitors for giving
+<pb facs="tcp:155747:4"/> counſell againſt our proceedings, and procuring armes to be raiſed in defence of their Priviledges and Liberties, which we had procured to be infringed and broken. Thus far we proceeded without any great danger or difficulty, for we had but bare Proteſtations and Declarations againſt our proceedings, without hurt to our perſons or eſtates: but now open war is raiſed againſt us, our eſtates ſeiſed up<g ref="char:EOLhyphen"/>on, our Prieſts and Jeſuits baniſhed, and we driven from our habitations, and as many of us as they could they have diſarmed, for which having no other pretence co<g ref="char:EOLhyphen"/>lourable to raiſe open armes moſt part of the Kingdome, oppoſing us, and endeavouring to make or us <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prey and ſpoile, we were enforced to uſe our beſt friends <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bout the Court for our protection, pretending the illegallity of the Parliaments proceedings touching the ſetling of the Militia, which if not prevented would be our utter de<g ref="char:EOLhyphen"/>ſtruction, and to perſwade his Majeſty that his Preroga<g ref="char:EOLhyphen"/>tive was particular and undubitable in that point, and that it was more agreeable to Law and Prerogative, to</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Put a Commiſſion of Aray in execution throughout the Kingdome, and iſſue out Proclamations for obedience to the ſame, which being approved, was attempted accor<g ref="char:EOLhyphen"/>dingly, and in many places obeyed, a ſufficient party to defend war, tooke the Kings part againſt the Parliament, and we as native Subjects to our Prince thought it our du<g ref="char:EOLhyphen"/>ty with our lives and fortunes to aſſiſt our diſtreſſed Sove<g ref="char:EOLhyphen"/>raigne, and now to lay aſide all pretence of our Religion (although that is our onely aime) fight now in defence of his Majeſties Prerogative, which if we prevaile, we in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end not to ſubmit to his government otherwiſe then e<g ref="char:EOLhyphen"/>ſtabliſhing
+<pb facs="tcp:155747:4"/> our Religion in his dominions, and aboliſhing the Proteſtant Profeſſion as hereticall, which if he ſhall re<g ref="char:EOLhyphen"/>fuſe, we hope your pardon will protect our ſoules, if by treaſon or otherwiſe we conſpire his deſtruction, and his Poſterity, and if we obtaine, we conceive our ſelves ſafe enough, having gone thus far, we endeavoured</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>That forraigne force might be brought into this King<g ref="char:EOLhyphen"/>dome from Spaine, France and Denmarke, to aſſiſt his Majeſty in his juſt war, which we accordingly expect that</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>We are luckily poſſeſſed of many Caſtles, Townes and Cities of ſtrength in moſt parts of the Kingdome, have had many skirmiſhes with our enemies, but ſtill have had the worſt; our Captaine Generall is the noble Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> of the body of his Majeſties Army attending his Per<g ref="char:EOLhyphen"/>ſon, the Earle of Newcaſtle and others, Captaines of the forces raiſed on the behalfe of his Majeſty in the North parts of England, and Sir <hi>Ralph H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pton</hi> Captaine of the Weſt parts; to ſpeake truth moſt parts favour the cauſe, but have had no great ſucceſſe, for the party of the Parlia<g ref="char:EOLhyphen"/>ment growes ſtrong, and have won from us many Caſtles and Townes, therefore if this next ſpring forces from forraigne parts come not in to aſſiſt the cauſe, it is like to periſh, we have no mercy on <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eticks, but beginne to deale with them if wee overcome as our brethren in Ire<g ref="char:EOLhyphen"/>land; and indeed the lenity of the adverſe party ſhewes either in them no magnanimity of ſpirit, or a careleſſe imagination that they ſhall overcome us with their looks, the conceit whereof is no ſmall delight to our fancies.</p>
+            </div>
+            <div n="10" type="part">
+               <pb facs="tcp:155747:5"/>
+               <head>X.</head>
+               <p>Alſo we have not a few friends, Officers and Comman<g ref="char:EOLhyphen"/>ders in the oppoſite army, which ſtand us in great ſtead in skirmiſh, others to diſcover to us the ſtrength of our ene<g ref="char:EOLhyphen"/>my how well they are furniſhed with powder and bullets, how many affect not their ſervice and the like, which is advantage to us.</p>
+               <p>And thus may it pleaſe your Holineſſe, we have pre<g ref="char:EOLhyphen"/>ſented the full eſtate of things now and hitherto with us, once more humbly deſiring ſpeedy aſſiſtance by your pro<g ref="char:EOLhyphen"/>curement, that a ſpeedy end may be put to theſe warres, and we with our Religion and Lawes eſtabliſhed in peace and tranquility, which we pray the Saints departed grant,</p>
+            </div>
+            <closer>And that your Holineſſe and your Councells, may take better effects then <hi>Achitophels</hi> againſt <hi>David,</hi> we againe pray, &amp;c.
+<signed>
+                  <list>
+                     <item>B. J. V. D.</item>
+                     <item>G. L.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
